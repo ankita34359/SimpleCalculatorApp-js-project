@@ -24,4 +24,3 @@ if(operator === "+"){
 
 // Display the result in console
 console.log(`Result: ${result}`); 
-// backtick
